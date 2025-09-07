@@ -17,3 +17,5 @@ If you're looking for a version with **enhanced security features**, feel free t
 👉 https://discord.gg/9U6Cepuu4D
 
 This source is just an update of the original source from https://github.com/Herooyyy/Pcileech-ISABridge so credits for him ❤️
+
+And yes,if you ask if is blocked on EAC or some others anticheats,yes probably is blocked.
